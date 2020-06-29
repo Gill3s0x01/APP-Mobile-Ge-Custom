@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Ge Custom Desing",
+    "slug": "Ge Custom Design",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "adaptiveIcon": {
+      "android.icon": "./assets/icon1.png",
+      "backgroundColor": "#ffccff",
+      "icon": "./assets/icon1.png"
+    },
+    "splash": {
+      "image": "./assets/loadingpage.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffccff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.coffeebeam.gecustom",
+      "buildNumber": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.coffeebeam.gecustom",
+      "versionCode": 1,
+      "adaptiveIcon": "./assets/icon1.png"
+  
+    }
+    
+  }
+}
