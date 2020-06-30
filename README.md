@@ -41,3 +41,5 @@ instalação do $ yarn
 
 Execute o aplicativo móvel
 $ yarn start 📝 Licença Para visualizar a licença, consulte o MIT !
+
+
